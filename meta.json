@@ -1,0 +1,23 @@
+{
+  "repo": "inventor-2026-pro",
+  "product": "Inventor 2026 Pro",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "mechanical-cad",
+  "topics": [
+    "autodesk-inventor",
+    "ipart-assembly-desk",
+    "bom-balloon-windows",
+    "inventor-2026",
+    "how-to-install-inventor",
+    "inventor-desktop-package",
+    "feature-sketch-suite",
+    "drawing-sheet-tools",
+    "mechanical-cad-2026",
+    "inventor-pro-2026"
+  ],
+  "site": "toolix.me"
+}
